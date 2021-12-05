@@ -1,0 +1,12 @@
+@media (max-width:890px){
+    body{
+        flex-direction: column-reverse;
+    }
+
+    #navbar, #main-doc{
+        position: static;
+    }
+
+}
+
+//
